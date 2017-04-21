@@ -1,0 +1,74 @@
+{
+  "total_count": 1,
+  "entries": [
+    {
+      "type": "file",
+      "id": "161815625638",
+      "file_version": {
+        "type": "file_version",
+        "id": "171950788006",
+        "sha1": "19e3577d43b3aaf94886ae8e33206bb26c6daebc"
+      },
+      "sequence_id": "0",
+      "etag": "0",
+      "sha1": "19e3577d43b3aaf94886ae8e33206bb26c6daebc",
+      "name": "worddoc.docx",
+      "description": "",
+      "size": 21342,
+      "path_collection": {
+        "total_count": 2,
+        "entries": [
+          {
+            "type": "folder",
+            "id": "0",
+            "sequence_id": null,
+            "etag": null,
+            "name": "All Files"
+          },
+          {
+            "type": "folder",
+            "id": "24663613299",
+            "sequence_id": "0",
+            "etag": "0",
+            "name": "Test"
+          }
+        ]
+      },
+      "created_at": "2017-04-20T17:28:04-07:00",
+      "modified_at": "2017-04-20T17:28:04-07:00",
+      "trashed_at": null,
+      "purged_at": null,
+      "content_created_at": "2017-04-20T17:28:04-07:00",
+      "content_modified_at": "2017-04-20T17:28:04-07:00",
+      "created_by": {
+        "type": "user",
+        "id": "1517427035",
+        "name": "Kaveri Parameshwar",
+        "login": "kaveri.govindan@gmail.com"
+      },
+      "modified_by": {
+        "type": "user",
+        "id": "1517427035",
+        "name": "Kaveri Parameshwar",
+        "login": "kaveri.govindan@gmail.com"
+      },
+      "owned_by": {
+        "type": "user",
+        "id": "1517427035",
+        "name": "Kaveri Parameshwar",
+        "login": "kaveri.govindan@gmail.com"
+      },
+      "shared_link": null,
+      "parent": {
+        "type": "folder",
+        "id": "24663613299",
+        "sequence_id": "0",
+        "etag": "0",
+        "name": "Test"
+      },
+      "item_status": "active"
+    }
+  ],
+  "limit": 30,
+  "offset": 0
+}
